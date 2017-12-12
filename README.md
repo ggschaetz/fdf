@@ -25,6 +25,6 @@ for qwerty keyboard
 	- zoom - : s
 	- quit : esc
 ```
-#exemple
+#example
 
 ![Alt text](./screen_for_readme/example.png?raw=true "Map 42")
