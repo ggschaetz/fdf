@@ -13,9 +13,11 @@ the aim is to take a text format file as input and display a 3D graphical repres
 #option
 
 for qwerty keyboard
+```sh
 	- move : keyboard arrows
 	- increase height : q
 	- decrease height : w
 	- zoom + : a
 	- zoom - : s
 	- quit : esc
+```
