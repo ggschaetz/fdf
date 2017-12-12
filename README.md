@@ -1,7 +1,7 @@
 # FDF @ 42
 
-this project is an initiating to graphic programmation and evenmentiel programmation,
-he consist to print one map in "3D" witch the origine map is on text format file with extend .fdf 
+this project is an initiation to graphical and event-driven programming
+the aim is to take a text format file as input and display a 3D graphical representation
 
 ![Alt text](./screen.png?raw=true "Map 42")
 
@@ -12,9 +12,10 @@ he consist to print one map in "3D" witch the origine map is on text format file
 
 #option
 
- - move : keyboard arrows
- - increase altitude : q
- - decrease altitude : w
- - zoom + : a
- - zoom - : s
- - quit : esc
+for qwerty keyboard
+	- move : keyboard arrows
+	- increase height : q
+	- decrease height : w
+	- zoom + : a
+	- zoom - : s
+	- quit : esc
