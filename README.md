@@ -1,9 +1,9 @@
 # FDF @ 42
 
-this project is an initiation to graphical and event-driven programming
-the aim is to take a text format file as input and display a 3D graphical representation
+This project is an initiation to graphical and event-driven programming.
+The aim is to take a text format file as input and display a 3D graphical representation.
 
-![Alt text](./screen.png?raw=true "Map 42")
+![Alt text](./screen_for_readme/screen.png?raw=true "Map 42")
 
 #compiling
 
@@ -25,3 +25,6 @@ for qwerty keyboard
 	- zoom - : s
 	- quit : esc
 ```
+#exemple
+
+![Alt text](./screen_for_readme/example.png?raw=true "Map 42")
